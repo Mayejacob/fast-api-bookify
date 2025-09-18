@@ -1,0 +1,38 @@
+books = [
+    {
+        "id": 1,
+        "title": "Think big 1",
+        "author": "Jayboss",
+        "publisher": "Jayboss media",
+        "published_date": "2025-01-02",
+        "page_count": 3000,
+        "language": "English",
+    },
+    {
+        "id": 2,
+        "title": "Think big 2",
+        "author": "Jayboss",
+        "publisher": "Jayboss media",
+        "published_date": "2025-02-02",
+        "page_count": 3000,
+        "language": "Spanish",
+    },
+    {
+        "id": 3,
+        "title": "Think big 3",
+        "author": "Jayboss",
+        "publisher": "Jayboss media",
+        "published_date": "2025-03-02",
+        "page_count": 3000,
+        "language": "French",
+    },
+    {
+        "id": 4,
+        "title": "Think big 4",
+        "author": "Jayboss",
+        "publisher": "Jayboss media",
+        "published_date": "2025-04-02",
+        "page_count": 3000,
+        "language": "Italiano",
+    },
+]
